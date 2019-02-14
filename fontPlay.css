@@ -1,0 +1,51 @@
+p {font-family: 'Lato', sans-serif;
+
+font-weight: bold;
+
+font-size: 50px;
+
+line-height: 100px;
+
+letter-spacing: 25px;
+
+  }
+
+p2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+
+font-weight: bolder;
+
+font-size: 75px;
+
+line-height: 200px
+
+}
+
+p3 {
+
+    font-family: 'Lato', sans-serif;
+
+    font-weight: 15;
+
+    font-size: 75px;
+
+    line-height: 0;
+}
+
+h1 {
+
+    font-family: 'Lato', sans-serif;
+
+    font-weight: 1000px;
+
+    font-size: 89px;
+
+    line-height: 50px
+
+
+}
+
+
+
+
+
+
